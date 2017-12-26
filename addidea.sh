@@ -43,5 +43,5 @@ do
 done
 
 git add ideas.md
-git commit -m "Add idea $1"
+git commit -m "Add $1 idea"
 git push origin master
