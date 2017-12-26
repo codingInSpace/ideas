@@ -9,3 +9,8 @@ Algorithms to procedurally generate colorful graffiti pieces.
 An "engine" where the user can customize fractal patterns with a GUI for a preview shot, then ray trace fine details
 - Throw in computer graphics methods
 - Use as learning project for cg
+
+## A good idea
+very good
+- one
+- two
